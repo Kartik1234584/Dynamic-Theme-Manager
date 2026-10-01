@@ -91,4 +91,4 @@ The packaged application is written to `dist/Dynamic Theme Manager/`. For a dist
 
 ## License
 
-No license has been included yet. Add a `LICENSE` file before distributing this project publicly.
+No license has been included yet.
